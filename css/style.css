@@ -1,0 +1,26 @@
+.titulo{
+    text-align: center;
+    padding: 5px;
+    border-radius: 15px;
+    /*background-color: bisque;*/
+    font-weight: bold;
+    color: #007c9d;
+}
+.bgFondo{
+    /*background-color: #fdeae2;*/
+    background: linear-gradient(
+        to bottom right,
+        #FFDEF2, 
+        #E6F0FF
+    );;
+
+}
+.text-primary{
+    font-weight: bold;
+}
+
+.custom-div{
+    font-size: 17px;
+    border-radius: 15px;
+}
+
